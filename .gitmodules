@@ -1,0 +1,3 @@
+[submodule "Plugins/OctreePlugin"]
+	path = Plugins/OctreePlugin
+	url = https://github.com/ryangadz/OctreePlugin.git
