@@ -15,4 +15,4 @@ Content/Beta/*
 
 OctreePluginSample.code-workspace
 
--Plugins/README.md
+!Plugins/README.md
